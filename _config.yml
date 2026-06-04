@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: AppLockerManager
+title: AppLocker Manager
 
 # Canonical site URL for GitHub Pages and generated links
 url: "https://applockermanager.github.io"
@@ -19,7 +19,7 @@ url: "https://applockermanager.github.io"
 description: Centralized policy management and deployment for Windows application control
 
 # Your name to show in the footer
-author: AppLockerManager Team
+author: AppLocker Manager Team
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -78,7 +78,7 @@ social-network-links:
 
 # If you want your website to generate an RSS feed, provide a description
 # The URL for the feed will be https://<your_website>/feed.xml
-rss-description: AppLockerManager helps teams author, validate, and deploy Windows application control policy.
+rss-description: AppLocker Manager helps teams author, validate, and deploy Windows application control policy.
 
 ###########################
 # --- General options --- #
