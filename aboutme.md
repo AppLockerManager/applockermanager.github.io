@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About AppLockerManager
+subtitle: Centralized policy management for Windows application control
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+AppLockerManager helps organizations design, validate, and deploy Windows application control policy from a single workflow.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+It is built for security and operations teams that need a practical way to reduce application risk without creating unnecessary friction for users.
 
-What else do you need?
+## What it does
 
-### My story
+- Creates AppLocker policies for executables, scripts, installers, packaged apps, and DLLs
+- Supports pilot testing before broader enforcement
+- Improves visibility into rule intent, rollout history, and enforcement outcomes
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## Why it matters
+
+AppLockerManager helps teams move away from brittle scripts and manual edits. Instead, they get a repeatable, auditable process for application control that supports least-privilege execution and safer policy changes.
