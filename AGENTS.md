@@ -18,5 +18,5 @@ This repository is the AppLocker Manager GitHub Pages site.
 ## Workflow
 
 - Validate YAML and Markdown edits before finishing.
-- Commit and push completed site updates when requested.
+- Commit and push completed site updates after changes validate with no errors.
 - Do not remove unrelated user changes.
